@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/react-weather-forecast-app/static/css/main.6adc2d05.chunk.css",
+    "main.js": "/react-weather-forecast-app/static/js/main.043640e4.chunk.js",
+    "main.js.map": "/react-weather-forecast-app/static/js/main.043640e4.chunk.js.map",
+    "runtime-main.js": "/react-weather-forecast-app/static/js/runtime-main.9d6610d1.js",
+    "runtime-main.js.map": "/react-weather-forecast-app/static/js/runtime-main.9d6610d1.js.map",
+    "static/css/2.db88180d.chunk.css": "/react-weather-forecast-app/static/css/2.db88180d.chunk.css",
+    "static/js/2.93c4ad33.chunk.js": "/react-weather-forecast-app/static/js/2.93c4ad33.chunk.js",
+    "static/js/2.93c4ad33.chunk.js.map": "/react-weather-forecast-app/static/js/2.93c4ad33.chunk.js.map",
+    "index.html": "/react-weather-forecast-app/index.html",
+    "precache-manifest.f4d4049db35efada5661a7e652e8e62b.js": "/react-weather-forecast-app/precache-manifest.f4d4049db35efada5661a7e652e8e62b.js",
+    "service-worker.js": "/react-weather-forecast-app/service-worker.js",
+    "static/css/2.db88180d.chunk.css.map": "/react-weather-forecast-app/static/css/2.db88180d.chunk.css.map",
+    "static/css/main.6adc2d05.chunk.css.map": "/react-weather-forecast-app/static/css/main.6adc2d05.chunk.css.map",
+    "static/js/2.93c4ad33.chunk.js.LICENSE.txt": "/react-weather-forecast-app/static/js/2.93c4ad33.chunk.js.LICENSE.txt",
+    "static/media/app.css": "/react-weather-forecast-app/static/media/thunderstorm2.9d97549d.jpg",
+    "static/media/slick-theme.css": "/react-weather-forecast-app/static/media/slick.f97e3bbf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9d6610d1.js",
+    "static/css/2.db88180d.chunk.css",
+    "static/js/2.93c4ad33.chunk.js",
+    "static/css/main.6adc2d05.chunk.css",
+    "static/js/main.043640e4.chunk.js"
+  ]
+}
