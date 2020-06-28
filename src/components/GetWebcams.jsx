@@ -2,16 +2,16 @@ import React, { useEffect } from 'react';
 import Webcam from './Webcam';
 import Slider from "react-slick";
 
-const API_KEY_WINDY = 'EHcQzfGryyJ6uGtCLdUEUlfcse5aW9N8';
+const API_KEY_WINDY = process.env.REACT_APP_API_KEY_WINDY;
 const Base_URL_WINDY = 'https://api.windy.com/api/webcams/v2/list/'
 
 function GetWebcams ({ weather, webcams, setWebcams }) {
 
-    // useEffect(() => {
-    //     if (weather.main != '') {
-    //         getWebcams();
-    //   }
-    // }, []);
+    useEffect(() => {
+        if (weather.main != '') {
+            getWebcams();
+      }
+    }, []);
 
     const settings = {
         dots: true,
